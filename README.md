@@ -43,3 +43,5 @@ You will get 5 points for hitting bullseye, 3 points for hitting the middle zone
 But be careful, the more targets you hit, the harder it will become.  
 
 Good luck! ;)
+
+You can try it online through this link: https://codeinplace.stanford.edu/cip3/share/Ca8IdWzSwoK8VSx642F9
